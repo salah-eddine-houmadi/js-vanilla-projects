@@ -1,0 +1,7 @@
+{
+    "[javascript]": {
+        "editor.formatOnPaste": true
+    },
+    "editor.formatOnSave": true,
+    "notebook.formatOnSave.enabled": true
+}
